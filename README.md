@@ -68,7 +68,24 @@ En respuesta a la recomendación del profesor (Webconferencia 4), se han estruct
 
 **Financiera:** Resultado final de la cadena causal. Traduce la reputación académica y la calidad investigativa en sostenibilidad económica.
 
-### Cadena Causal del BSC
+markdown
+## Cadena Causal del Balanced Scorecard (BSC)
+
+La siguiente cadena causal demuestra cómo las cuatro perspectivas del BSC se relacionan estratégicamente:
+NIVEL 1: APRENDIZAJE Y DESARROLLO
+↓ (expandir talento senior de 5 a 6-7 autores)
+NIVEL 2: PROCESOS INTERNOS
+↓ (optimizar ciclo de publicación de 9 a 6 meses)
+NIVEL 3: CLIENTES
+↓ (mantener sentimiento positivo por encima del 85%)
+NIVEL 4: FINANCIERA
+↓ (alcanzar 5 proyectos financiados por semestre)
+
+
+
+**Conclusión de la cadena causal:**  
+La única forma de lograr 5 proyectos financiados por semestre es mediante (1) capital humano senior calificado, (2) procesos de publicación optimizados y (3) reputación de calidad sostenida en el tiempo. Esta relación causal convierte los hallazgos descriptivos del análisis bibliométrico en acciones estratégicas medibles.
+
 
 
 ## Nota sobre Bibliometrix
