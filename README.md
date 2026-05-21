@@ -45,6 +45,32 @@ El dashboard incluye 4 visualizaciones integradas:
 | Aprovechamiento de autores productivos | +30% autores con >5 publicaciones | 1 año |
 | Diversificación temática | 3 nuevas líneas/año | 5 años |
 
+## Balanced Scorecard (BSC) - Alineación Estratégica de KPIs
+
+En respuesta a la recomendación del profesor (Webconferencia 4), se han estructurado indicadores clave de rendimiento (KPIs) bajo las cuatro perspectivas del Balanced Scorecard (Kaplan & Norton, 1996).
+
+### KPIs por Perspectiva del BSC
+
+| Perspectiva | KPI | Baseline | Meta | Horizonte |
+|-------------|-----|----------|------|-----------|
+| **Aprendizaje y Desarrollo** | Autores con ≥5 publicaciones | 5 autores | 6-7 autores (+30%) | 12 meses |
+| **Procesos Internos** | Ciclo de publicación | 9 meses (est.) | 6 meses (-33%) | 24 meses |
+| **Clientes** | % de artículos con sentimiento positivo (NLP) | 89.9% | Mantener >85% | Continuo |
+| **Financiera** | Proyectos financiados por semestre | Por determinar | 5 proyectos/semestre | 12 meses |
+
+### Justificación Estratégica
+
+**Aprendizaje y Desarrollo:** El capital humano senior es el activo más valioso. La expansión de 5 a 6-7 autores senior genera efecto multiplicador en productividad.
+
+**Procesos Internos:** Intervención directa para revertir la tendencia decreciente (R²=0.828). Ciclos más rápidos permiten a autores publicar +50% más artículos por año.
+
+**Clientes:** Diferenciador competitivo. Un sentimiento positivo sostenido (actual 89.9%) correlaciona con mayor impacto, citaciones y financiamiento externo.
+
+**Financiera:** Resultado final de la cadena causal. Traduce la reputación académica y la calidad investigativa en sostenibilidad económica.
+
+### Cadena Causal del BSC
+
+
 ## Nota sobre Bibliometrix
 
 De acuerdo con la guía de la actividad, se intentó utilizar el paquete **Bibliometrix** (R) para el análisis bibliométrico. Sin embargo, debido a limitaciones técnicas del entorno Google Colab (fallos en la compilación de dependencias), no fue posible completar su instalación.
